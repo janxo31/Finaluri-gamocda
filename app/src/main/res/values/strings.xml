@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Jankhoteli and Tsuladze Finaluri</string>
+    <string name="GoBackTit">Go Back</string>
+    <string name="LogInTit">LogIn</string>
+    <string name="EmailTit">Email</string>
+    <string name="PasswordTit">Password</string>
+    <string name="ConfirmTit">Confirm</string>
+    <string name="SignOutTit">Sing Out</string>
+    <string name="RegisterTit">Register</string>
+    <string name="ForgotPasswordTit">Forgot password?</string>
+    <string name="appLogoAlt">Application Description</string>
+    <string name="splashAppTitle">2DO</string>
+    <string name="splashAppDescription">Created by Giorgi jankhoteli and Davit tsuladze</string>
+
+</resources>
